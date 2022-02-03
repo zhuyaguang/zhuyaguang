@@ -19,7 +19,7 @@
 
 ## Voluntary Activities
 
-- GoCN  translator
+- [GoCN  translator](https://github.com/gocn/translator)
 
 
 ## I contributed project 
