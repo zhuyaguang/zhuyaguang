@@ -1,4 +1,4 @@
-## Career Experience 👋
+## Career Experience
 
 ### Apr.2017-Apr.2020 Huawei CloudBU 
 
