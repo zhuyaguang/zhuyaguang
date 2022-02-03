@@ -30,5 +30,5 @@
 
 ## Status
 - 🌱 I’m currently learning rust\vue\MIT 6.824
--  🌱 I’m currently reading DDIA\Google SRE\
+-  🌱 I’m currently reading DDIA\Google SRE
 
