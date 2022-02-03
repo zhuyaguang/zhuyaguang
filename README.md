@@ -1,4 +1,26 @@
-### Hi there 👋
+## Career Experience 👋
+
+### Apr.2017-Apr.2020 Huawei CloudBU 
+
+#### Huawei private cloud brand FusionStage Software Enginner
+
+#### Focus on and maintain Helm to support Huawei Private Cloud PAAS Platform 
+
+### Apr.2020-Now
+
+#### ZhejiangLab AI application Platform Software Enginner 
+
+#### Make all application CloudNative 
+
+## Skill
+
+### CloudNative,Docker,Kubernetes,Helm
+### Kubernetes Operators
+### Bash,Git,Terraform
+
+## Voluntary Activities
+
+### GoCN  translator
 
 
 - 🔭 I’m currently working on cloud native
