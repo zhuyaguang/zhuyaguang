@@ -28,6 +28,7 @@
 
 - [kubeedge](https://github.com/kubeedge/kubeedge)
 
-
-- 🌱 I’m currently learning rust\vue\mit 6.824
+## Status
+- 🌱 I’m currently learning rust\vue\MIT 6.824
+-  🌱 I’m currently reading DDIA\Google SRE\
 
