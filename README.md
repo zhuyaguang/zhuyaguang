@@ -14,15 +14,21 @@
 
 ## Skill
 
-### CloudNative,Docker,Kubernetes,Helm
-### Kubernetes Operators
-### Bash,Git,Terraform
+#### CloudNative,Docker,Kubernetes,Helm
+#### Kubernetes Operators
+#### Bash,Git,Terraform
 
 ## Voluntary Activities
 
-### GoCN  translator
+#### GoCN  translator
 
 
-- 🔭 I’m currently working on cloud native
+## I contributed project 
+
+- [milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)
+
+- [kubeedge](https://github.com/kubeedge/kubeedge)
+
+
 - 🌱 I’m currently learning rust\vue\mit 6.824
 
