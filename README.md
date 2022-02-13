@@ -32,5 +32,5 @@
 - 🌱 I’m currently learning rust\vue\MIT 6.824
 -  🌱 I’m currently reading DDIA\Google SRE
 
-![meoww-bot's github stats](https://github-readme-stats.vercel.app/api?username=zhuyaguang&show_icons=true)
+![zhuyaguang's github stats](https://github-readme-stats.vercel.app/api?username=zhuyaguang&show_icons=true)
 
