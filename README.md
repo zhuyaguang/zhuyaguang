@@ -6,7 +6,7 @@
 
 - Focus on and maintain Helm to support Huawei Private Cloud PAAS Platform 
 
-### Apr.2020-Now
+### Apr.2020-Now ZheJiang Lab
 
 - ZhejiangLab AI application Platform Software Enginner 
 - Make all application CloudNative 
@@ -34,6 +34,5 @@
 
 ![zhuyaguang's github stats](https://github-readme-stats.vercel.app/api?username=zhuyaguang&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuyaguang)](https://github.com/zhuyaguang/github-readme-stats)
 
 
