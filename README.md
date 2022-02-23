@@ -27,6 +27,7 @@
 - [milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)
 
 - [kubeedge](https://github.com/kubeedge/kubeedge)
+- [WasmEdge](https://github.com/WasmEdge/WasmEdge)
 
 ## Status
 - 🌱 I’m currently learning rust\vue\MIT 6.824
